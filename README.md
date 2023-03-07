@@ -1,1 +1,1 @@
-# Stud_Course_CRUD
+# StudentCourseManagement(CRUD)
